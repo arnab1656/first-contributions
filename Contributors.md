@@ -2,7 +2,10 @@
 [Goran Gelevski] (https:/github.com/goranMecka) ** Hi I am Goran From itay**
 - [Nate R6](https://github.com/nater6) **My First Contribution**
 - [Marupaka Sai Teja](https://github.com/saiteja1323) **Just the start!**
+- [Noel](https://github.com/joyles28) **+1**
 - [Jaimin Suthar](https://github.com/jaimin78) **Hello, I'm Jaimin From India**
+- - [Christian](https://github.com/ginoongflores) **Hello, I'm Christian From Philippines**
+- [M3XH4](https://github.com/M3XH4) **Hello, I'm Sean From Philippines**
 - [Forest Xiao](https://github.com/XiaoLinhong) **Hello, I'm Forest From China**
 - [Callum Haley](https://github.com/binbang12) **Hello world! Let's make you better together!**
 - [Wasiu Yusuf](https://github.com/yusuphwasiu) *Hello Everyone*, I've decided to take my first baby step towards contributing to open source. Although i feel ashamed i should have done this years ago, however, i believe it is never too late to start something worthwhile.*
@@ -28,6 +31,7 @@
 - [Lorenz-127](https://github.com/Lorenz-127) My first contribution
 - [Dizzy] (https://github.com/DizzyG123) **Trying out the new contribution and learning**
 - [AikSaiWan](https://github.com/AikSaiWan) My first contribution
+- [Errol-Anthony-Jano] (https://github.com/Errol-Anthony-Jano)
 - [Rahul](https://github.com/R-05368) My first contribution
 - [Gihan](https://github.com/ceeejeey) My first contribution
 - [Suraj Mitake](https://github.com/mitake2003) **First Constribution 😊**
@@ -2837,6 +2841,7 @@ Romeu Leite
 - [test21]
 - John Wood
 -[Anjali Sachan]
+- [Chetan Kesare](https://github.com/0x1Luffy) Hardwork Beats Talent !
 - [Elcosas](https://github.com/elcosas)
 -[HP](https://github.com/Hermeshasnowings)
 - [Hemant](https://github.com/hemant187)
@@ -5780,3 +5785,4 @@ Hector
 - [jaiderbernal90](https://github.com/jaiderbernal90) _Hello word! This is my first contribution on opensource repo_
 - [NoMeLlamoDante](https://github.com/NoMeLlamoDante) **Dante**
 - [AugustFri](https://github.com/AugustFri) **I'm contributing alright**
+-[Arnab Paul](https://github.com/arnab1656) **Hello Myself is Very Lucky Go across this Repo and Shout Out And Have Nice Day Ahead**  
